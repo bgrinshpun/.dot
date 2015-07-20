@@ -1,2 +1,2 @@
 # .dot
-Backup for various setup files
+Nondescript backup for various shell environment setup files
